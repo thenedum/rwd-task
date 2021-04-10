@@ -1,2 +1,3 @@
 # rwd-task
-Zuriboard responsive web design task
+
+Live preview available at https://rwd-live-zuritask.netlify.app/
